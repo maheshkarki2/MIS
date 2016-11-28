@@ -1,0 +1,89 @@
+﻿[
+
+  {
+    "prodcutList": [
+      {
+        "Description": "Dell XPS 2016, A brand new computer with very powerful processing and computing capabilitiesFeatures: RAM 16 GB, SDD: 512 GB, Graphics: AMD RaedonWarranty: Upto an Year from date purchased",
+        "Price": 700.00,
+        "ProductCode": "C1XP2016",
+        "ProductName": "Dell XPS 2016"
+      },
+      {
+        "Description": "XBoX 360, A brand new computer with very powerful processing and computing capabilitiesFeatures: RAM 16 GB, SDD: 512 GB, Graphics: AMD RaedonWarranty: Upto an Year from date purchased",
+        "Price": 700.00,
+        "ProductCode": "X1XB2016",
+        "ProductName": "Dell XPS 2016"
+      }
+    ],
+    "PurhcaseId": "PCH1",
+    "DatePurchased": "2016-10-10T00:00:00",
+    "Quantity": 3,
+    "UnitPrice": 10.0
+  },
+  {
+    "prodcutList": [
+      {
+        "Description": "XPS Printer Color 4k with very nic pprinting capabilities",
+        "Price": 600.50,
+        "ProductCode": "XPXB2017",
+        "ProductName": "Sony Printer"
+      },
+      {
+        "Description": "XPS Printer Color 4k with very nic pprinting capabilities",
+        "Price": 600.50,
+        "ProductCode": "XPXB2018",
+        "ProductName": "Sony Printer"
+      },
+      {
+        "Description": "XPS Printer Color 4k with very nic pprinting capabilities",
+        "Price": 608.5,
+        "ProductCode": "XPXB2019",
+        "ProductName": "Sony Printer"
+      }
+    ],
+    "PurhcaseId": "PCH2",
+    "DatePurchased": "2016-09-10T00:00:00",
+    "Quantity": 100,
+    "UnitPrice": 10.0
+  },
+  {
+    "prodcutList": [
+      {
+        "Description": "Dell XPS 2016, A brand new computer with very powerful processing and computing capabilitiesFeatures: RAM 16 GB, SDD: 512 GB, Graphics: AMD RaedonWarranty: Upto an Year from date purchased",
+        "Price": 700.00,
+        "ProductCode": "C1XP2018",
+        "ProductName": "Dell XPS 2016"
+      },
+      {
+        "Description": "XBoX 360, A brand new computer with very powerful processing and computing capabilitiesFeatures: RAM 16 GB, SDD: 512 GB, Graphics: AMD RaedonWarranty: Upto an Year from date purchased",
+        "Price": 700.00,
+        "ProductCode": "X1XB2016",
+        "ProductName": "Dell XPS 2016"
+      }
+    ],
+    "PurhcaseId": "PCH3",
+    "DatePurchased": "2016-10-10 T00:00:00",
+    "Quantity": 20,
+    "UnitPrice": 200.0
+  },
+  {
+    "prodcutList": [
+      {
+        "Description": "Dell XPS 2016, A brand new computer with very powerful processing and computing capabilitiesFeatures: RAM 16 GB, SDD: 512 GB, Graphics: AMD RaedonWarranty: Upto an Year from date purchased",
+        "Price": 700.00,
+        "ProductCode": "C1XP2016",
+        "ProductName": "Dell XPS 2016"
+      },
+      {
+        "Description": "XBoX 360, A brand new computer with very powerful processing and computing capabilitiesFeatures: RAM 16 GB, SDD: 512 GB, Graphics: AMD RaedonWarranty: Upto an Year from date purchased",
+        "Price": 700.00,
+        "ProductCode": "X1XB2016",
+        "ProductName": "Dell XPS 2016"
+      }
+    ],
+    "PurhcaseId": "PCH4",
+    "DatePurchased": "2016-10-10T00:00:00",
+    "Quantity": 3,
+    "UnitPrice": 10.0
+  }
+]

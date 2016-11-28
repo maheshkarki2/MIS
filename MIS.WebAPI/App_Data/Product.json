@@ -1,0 +1,39 @@
+[
+  {
+    "Description": "Dell XPS 2016, A brand new computer with very powerful processing and computing capabilitiesFeatures: RAM 16 GB, SDD: 512 GB, Graphics: AMD RaedonWarranty: Upto an Year from date purchased",
+
+    "Price": 700.00,
+    "ProductCode": "C1XP2016",
+    "ProductName": "Dell XPS 2016",
+    "ImagePath": "/Content/Image/xbox.jpg"
+  },
+  {
+    "Description": "XBoX 360, A brand new computer with very powerful processing and computing capabilitiesFeatures: RAM 16 GB, SDD: 512 GB, Graphics: AMD RaedonWarranty: Upto an Year from date purchased",
+    "Price": 700.00,
+    "ProductCode": "X1XB2016",
+    "ProductName": "Dell XPS 2016",
+    "ImagePath": "/Content/Image/camera.jpg"
+  },
+  {
+    "Description": "XPS Printer Color 4k with very nic pprinting capabilities",
+    "Price": 600.50,
+    "ProductCode": "XPXB2017",
+    "ProductName": "Sony Printer",
+    "ImagePath": "/Content/Image/dell.jpg"
+  },
+  {
+    "Description": "XPS Printer Color 4k with very nic pprinting capabilities.",
+    "Price": 600.50,
+    "ProductCode": "XPXB2018",
+    "ProductName": "Sony Printer",
+    "ImagePath": "/Content/Image/sony.jpg"
+  },
+  {
+    "Description": "XPSss Printer Color 4k with very nic pprinting capabilities",
+    "Price": 608.5,
+    "ProductCode": "XPXB2019",
+    "ProductName": "Sony Printer",
+    "ImagePath": "/Content/Image/xbox.jpg"
+  }
+
+,{"Description":"gi","Price":0.0,"ProductCode":"gj","ProductName":"fhj","ImagePath":null},{"Description":"hgj","Price":0.0,"ProductCode":"fyjh","ProductName":"yfj","ImagePath":null},{"Description":"gjk","Price":0.0,"ProductCode":"gjk","ProductName":"hj","ImagePath":null},{"Description":"dfg","Price":0.0,"ProductCode":"dfg","ProductName":"fcxgb","ImagePath":null},{"Description":"ghj","Price":0.0,"ProductCode":"hj","ProductName":"tgyju","ImagePath":null},{"Description":"This is a new product","Price":0.0,"ProductCode":"XPSHD2018","ProductName":"New Product","ImagePath":null},{"Description":"sdfasdfasdfasd","Price":0.0,"ProductCode":"123c","ProductName":"asdfa","ImagePath":null},{"Description":"asmndfaksdfkajsdf","Price":0.0,"ProductCode":"asdfa","ProductName":"new product","ImagePath":null}]

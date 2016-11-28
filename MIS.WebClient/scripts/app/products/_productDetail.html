@@ -1,0 +1,25 @@
+﻿<div ng-class="{'modal-content custom-modal':!isPageView}">
+    <div ng-if="isPageView" class="modal-header">
+        <button type="button" class="close" ng-click="close()" data-dismiss="modal" aria-hidden="true">&times;</button>
+    </div>
+    <div class="well">
+        <div class="row">
+            <div class="card col-md-12">
+                <img class="card-img-top" src="{{products.ImagePath}}" style="width: 300px; height: 200px" alt="" />
+                <div class="card-block">
+                    <h4 class="card-title">{{products.ProductName}}</h4>
+                    <p class="card-text">{{products.Description}}</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><strong>Code : </strong>{{products.ProductCode}}</li>
+                    <li class="list-group-item"><strong>Price : </strong>{{products.Price}} $</li>
+                    <li class="list-group-item">Available: Is Available</li>
+                </ul>
+                <div class="card-block">
+                </div>
+            </div>
+            <hr style="width: 100%; color: black; height: 1px; background-color: black;" />
+        </div>
+    </div>
+
+</div>

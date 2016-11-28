@@ -1,0 +1,48 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.box {
+    border: 1px solid #ccc;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    -ms-background-clip: padding-box;
+    background-clip: padding-box;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+
+.quick-chart {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 320px;
+}
+
+    .quick-chart .title {
+        color: #000;
+        text-decoration: underline;
+    }
+
+    .quick-chart .-legend {
+        list-style: none;
+    }
+

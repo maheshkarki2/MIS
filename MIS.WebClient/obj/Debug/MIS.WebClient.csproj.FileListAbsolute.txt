@@ -1,0 +1,324 @@
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\ApplicationInsights.config
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\csc.exe
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\vbc.exe
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\MIS.WebClient.dll.config
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\MIS.WebClient.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\MIS.WebClient.pdb
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\EntityFramework.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.AI.Web.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Helpers.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Http.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Mvc.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Optimization.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Razor.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Webpages.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\WebGrease.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.AI.Web.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Razor.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Webpages.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Helpers.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\bin\System.Web.Mvc.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.pdb
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.csprojResolveAssemblyReference.cache
+D:\New folder\MIS\MIS.WebClient\bin\ApplicationInsights.config
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\csc.exe
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\vbc.exe
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe
+D:\New folder\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder\MIS\MIS.WebClient\bin\MIS.WebClient.dll.config
+D:\New folder\MIS\MIS.WebClient\bin\MIS.WebClient.dll
+D:\New folder\MIS\MIS.WebClient\bin\MIS.WebClient.pdb
+D:\New folder\MIS\MIS.WebClient\bin\Antlr3.Runtime.dll
+D:\New folder\MIS\MIS.WebClient\bin\EntityFramework.dll
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.AI.Agent.Intercept.dll
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.dll
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.AI.Web.dll
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.dll
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.dll
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder\MIS\MIS.WebClient\bin\Newtonsoft.Json.dll
+D:\New folder\MIS\MIS.WebClient\bin\System.Net.Http.Formatting.dll
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Helpers.dll
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Http.dll
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Http.WebHost.dll
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Mvc.dll
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Optimization.dll
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Razor.dll
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.dll
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Webpages.dll
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.dll
+D:\New folder\MIS\MIS.WebClient\bin\WebGrease.dll
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.xml
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.AI.Web.xml
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.xml
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.xml
+D:\New folder\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Razor.xml
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Webpages.xml
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.xml
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.xml
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Helpers.xml
+D:\New folder\MIS\MIS.WebClient\bin\System.Web.Mvc.xml
+D:\New folder\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.csprojResolveAssemblyReference.cache
+D:\New folder\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.dll
+D:\New folder\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.pdb
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\ApplicationInsights.config
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\csc.exe
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\vbc.exe
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\MIS.WebClient.dll.config
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\MIS.WebClient.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\MIS.WebClient.pdb
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\EntityFramework.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.AI.Web.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Net.Http.Formatting.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Helpers.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Http.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Http.WebHost.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Mvc.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Optimization.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Razor.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Webpages.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\WebGrease.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.AI.Web.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Razor.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Webpages.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Helpers.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\bin\System.Web.Mvc.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.pdb
+D:\Venkat\MIS\MIS.WebClient\bin\ApplicationInsights.config
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\csc.exe
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\System.Collections.Immutable.dll
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\vbc.exe
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe
+D:\Venkat\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe.config
+D:\Venkat\MIS\MIS.WebClient\bin\MIS.WebClient.dll.config
+D:\Venkat\MIS\MIS.WebClient\bin\MIS.WebClient.dll
+D:\Venkat\MIS\MIS.WebClient\bin\MIS.WebClient.pdb
+D:\Venkat\MIS\MIS.WebClient\bin\Antlr3.Runtime.dll
+D:\Venkat\MIS\MIS.WebClient\bin\EntityFramework.dll
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.dll
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.AI.Web.dll
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.dll
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.dll
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.Web.Infrastructure.dll
+D:\Venkat\MIS\MIS.WebClient\bin\Newtonsoft.Json.dll
+D:\Venkat\MIS\MIS.WebClient\bin\System.Net.Http.Formatting.dll
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Helpers.dll
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Http.dll
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Http.WebHost.dll
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Mvc.dll
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Optimization.dll
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Razor.dll
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.dll
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Webpages.dll
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.dll
+D:\Venkat\MIS\MIS.WebClient\bin\WebGrease.dll
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.xml
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.AI.Web.xml
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.xml
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.xml
+D:\Venkat\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Razor.xml
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Webpages.xml
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.xml
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.xml
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Helpers.xml
+D:\Venkat\MIS\MIS.WebClient\bin\System.Web.Mvc.xml
+D:\Venkat\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.csprojResolveAssemblyReference.cache
+D:\Venkat\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.dll
+D:\Venkat\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.pdb
+D:\MIS1\MIS\MIS.WebClient\bin\ApplicationInsights.config
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\csc.exe
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\System.Collections.Immutable.dll
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\vbc.exe
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe
+D:\MIS1\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe.config
+D:\MIS1\MIS\MIS.WebClient\bin\MIS.WebClient.dll.config
+D:\MIS1\MIS\MIS.WebClient\bin\MIS.WebClient.dll
+D:\MIS1\MIS\MIS.WebClient\bin\MIS.WebClient.pdb
+D:\MIS1\MIS\MIS.WebClient\bin\Antlr3.Runtime.dll
+D:\MIS1\MIS\MIS.WebClient\bin\EntityFramework.dll
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.dll
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.AI.Web.dll
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.dll
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.dll
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.Web.Infrastructure.dll
+D:\MIS1\MIS\MIS.WebClient\bin\Newtonsoft.Json.dll
+D:\MIS1\MIS\MIS.WebClient\bin\System.Net.Http.Formatting.dll
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Helpers.dll
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Http.dll
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Http.WebHost.dll
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Mvc.dll
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Optimization.dll
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Razor.dll
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.dll
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Webpages.dll
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.dll
+D:\MIS1\MIS\MIS.WebClient\bin\WebGrease.dll
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.xml
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.AI.Web.xml
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.xml
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.xml
+D:\MIS1\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Razor.xml
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Webpages.xml
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.xml
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.xml
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Helpers.xml
+D:\MIS1\MIS\MIS.WebClient\bin\System.Web.Mvc.xml
+D:\MIS1\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.csprojResolveAssemblyReference.cache
+D:\MIS1\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.dll
+D:\MIS1\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.pdb
+E:\MIS (2)\MIS\MIS.WebClient\bin\ApplicationInsights.config
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\csc.exe
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\System.Collections.Immutable.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\vbc.exe
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe
+E:\MIS (2)\MIS\MIS.WebClient\bin\roslyn\VBCSCompiler.exe.config
+E:\MIS (2)\MIS\MIS.WebClient\bin\MIS.WebClient.dll.config
+E:\MIS (2)\MIS\MIS.WebClient\bin\MIS.WebClient.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\MIS.WebClient.pdb
+E:\MIS (2)\MIS\MIS.WebClient\bin\Antlr3.Runtime.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\EntityFramework.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.AI.Web.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.Web.Infrastructure.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\Newtonsoft.Json.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Net.Http.Formatting.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Helpers.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Http.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Http.WebHost.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Mvc.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Optimization.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Razor.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Webpages.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\WebGrease.dll
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.AI.DependencyCollector.xml
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.AI.Web.xml
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.AI.WindowsServer.xml
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.ApplicationInsights.xml
+E:\MIS (2)\MIS\MIS.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Razor.xml
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Webpages.xml
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.xml
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.xml
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Helpers.xml
+E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Mvc.xml
+E:\MIS (2)\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.csprojResolveAssemblyReference.cache
+E:\MIS (2)\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.dll
+E:\MIS (2)\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.pdb

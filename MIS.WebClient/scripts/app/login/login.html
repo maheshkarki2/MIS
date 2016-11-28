@@ -1,0 +1,52 @@
+﻿<form id="loginUser" class="form-horizontal" name="loginUser" novalidate>
+    <div class="row" style="margin: 0px;">
+        <div class="col-sm-9" style="padding: 0px;">
+            <div class="login-bg">
+               
+            </div>
+        </div>
+        <div class="col-sm-3" style="padding: 0px;">
+
+            <div class="login-box">
+                <div class="row">
+                
+                </div>
+                <div class="logintext">
+                    <h3>Login</h3>
+                </div>
+                <div class="loginname">
+                    Username |
+                    <spam><a ui-sref="forgotUsername" style="color: #7dc14d;" tabindex="4">Forgot Username?</a></spam>
+                </div>
+                <div style="margin-bottom: 14px;">
+
+                    <input type="text" name="userName" ng-model="loginData.userName" class="form-control ng-pristine ng-untouched ng-valid ng-empty" required tabindex="1" />
+                </div>
+                <div class="loginname">
+                    Password |
+                    <spam> <a ui-sref="forgotPwd" style="color: #7dc14d;" tabindex="5">Forgot Password?</a></spam>
+                </div>
+                <div>
+                    <input type="password" name="password" ng-model="loginData.password" class="form-control ng-pristine ng-untouched ng-valid ng-empty" required tabindex="2" />
+                </div>
+                <div class="loginbutt">
+                    <button type="submit" class="btn btn-default" name="logonBtn" data-ng-click="login()" ng-disabled="loginUser.$invalid" tabindex="3">Login</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

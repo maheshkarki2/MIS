@@ -1,0 +1,30 @@
+﻿<div class="panel">
+    <h2>Purchase History</h2>
+</div>
+<div>
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th>Pruchase Id</th>
+            <th>Date Purchased</th>
+            <th>Quantity</th>
+            <th>Unit Price</th>
+            <th>Product Codes</th>
+            <th>Total Amount</th>
+        </tr>
+        <tr ng-repeat="purchase in resPurchaseHistory">
+            <td>{{purchase.PurhcaseId}}</td>
+            <td>{{purchase.DatePurchased}}</td>
+            <td>{{purchase.Quantity}}</td>
+            <td>{{purchase.UnitPrice}}</td>
+            <td>
+                <ul ng-repeat="product in purchase.prodcutList"><li>
+                    {{product.ProductCode}} : {{product.ProductName}}
+                </li></ul>
+            </td>
+            <td>
+                {{purchase.Quantity*purchase.UnitPrice}} $
+            </td>
+            
+        </tr>
+    </table>
+</div>

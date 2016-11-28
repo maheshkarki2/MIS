@@ -1,0 +1,49 @@
+﻿<hr style="width: 100%; color: black; height: 1px; background-color:black;" />
+<div class="list-group" ng-repeat="product in resProducts">
+    <div class="well">
+        <div class="row" ng-click="openProduct(product.ProductCode)">
+            <div class="col-md-5">
+                <img src="{{product.ImagePath}}" class="img-thumbnail" style="width: 300px; height: 200px" ng-click="openProduct(product.ProductCode)"/>
+            </div>
+            <div class="co-md-7">
+                <div class="panel panel-default col-md-7">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">
+                            <strong>{{product.ProductName}}</strong>
+                        </h3>
+                    </div>
+
+                    <div class="panel-body">
+                        <strong>Code :</strong>{{product.ProductCode}}<br/>
+                        <strong>Price: </strong>{{product.Price}}<br/>
+                        <strong>Description: </strong>{{product.Description}}<br/>
+                        <div class="btn-link" ng-click="openProduct(product.ProductCode)">Show More</div>
+                    </div>
+                    <div class="panel-footer">
+                        <button class="btn-link" ng-click="openProduct(product.ProductCode)"><strong>MSP : {{product.Price}} $</strong> <em> -(Click here to learn more)</em></button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!--<div class="well">
+        <div class="row">
+            <div class="card col-md-6">
+                <img class="card-img-top" src="{{product.ImagePath}}" style="width: 300px; height: 200px" alt="" />
+                <div class="card-block">
+                    <h4 class="card-title">{{product.ProductName}}</h4>
+                    <p class="card-text">{{product.Description}}</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><strong>Code :</strong>{{product.ProductCode}}</li>
+                    <li class="list-group-item"><strong>Price :</strong>{{product.Price}}</li>
+                    <li class="list-group-item">Available: </li>
+                </ul>
+                <div class="card-block">
+                </div>
+            </div>
+            <hr style="width: 100%; color: black; height: 1px; background-color: black;" />
+        </div>
+    </div>-->
+</div>

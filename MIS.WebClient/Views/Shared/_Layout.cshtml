@@ -1,0 +1,83 @@
+﻿@using System.Web.Optimization
+
+<!DOCTYPE html>
+<html ng-app="app" >
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+
+    @Styles.Render("~/Content/bootstrap")
+    @Styles.Render("~/Content/loadingbar")
+    @Styles.Render("~/Content/kendoui")
+    @Styles.Render("~/Content/site")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="collapse navbar-collapse">
+                <div class="nav navbar-nav">
+                    <div class="navbar-header">
+                        <a ui-sref="products" class="navbar-left"><img src="/Content/Image/logo.png" style="height: 60px; width: 60px" alt=""><span style="padding-left: 180px" ui-sref="products" class="navbar-brand">SMS</span></a>
+                        @*<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>*@
+                        @*@Html.ActionLink("Sales Management System", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })*@
+                        <span style="padding-left: 180px" ui-sref="error" class="navbar-brand">Dashboard</span>
+                        <span>  </span>
+                        @*<span style="padding-left: 87px" ui-sref="products" class="navbar-brand">Products</span>*@
+                            <ul class="navbar-brand" style="padding-left: 60px">
+                                <li class="dropdown">
+                                    <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Product <span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a ui-sref="products">product</a>
+
+                                        </li>
+                                        <li>
+                                            <a ui-sref="addProduct">Add Product</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                            </ul>
+                            <span style="padding-left: 87px" ui-sref="addProduct" class="navbar-brand">Add Product</span>
+                            <span style="padding-left: 108px" ui-sref="purchase" class="navbar-brand">Purchase History</span>
+
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+   
+
+        <div  ui-view>
+            @RenderBody()
+        </div>
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @*<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>*@
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/angular")
+    @Scripts.Render("~/bundles/angular/app")
+    @Scripts.Render("~/bundles/angular/controllers")
+    @Scripts.Render("~/bundles/angular/services")
+    @Scripts.Render("~/bundles/angular/directives")
+    @Scripts.Render("~/bundles/angular/filters")
+    @Scripts.Render("~/bundles/angular/kendo")
+</body>
+</html>

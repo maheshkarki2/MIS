@@ -1,0 +1,618 @@
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\ApplicationInsights.config
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\csc.exe
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\vbc.exe
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll.config
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\MIS.WebAPI.pdb
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\EntityFramework.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Owin.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Http.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Unity.WebApi.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\WebGrease.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Http.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\EntityFramework.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.pdb
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Cors.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Mahesh\Documents\visual studio 2015\Projects\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\New folder\MIS\MIS.WebAPI\bin\ApplicationInsights.config
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\csc.exe
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\vbc.exe
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\New folder\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll.config
+D:\New folder\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll
+D:\New folder\MIS\MIS.WebAPI\bin\MIS.WebAPI.pdb
+D:\New folder\MIS\MIS.WebAPI\bin\Antlr3.Runtime.dll
+D:\New folder\MIS\MIS.WebAPI\bin\EntityFramework.dll
+D:\New folder\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Newtonsoft.Json.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Owin.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Cors.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Helpers.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Http.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Mvc.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Optimization.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Razor.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.WebPages.dll
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Unity.WebApi.dll
+D:\New folder\MIS\MIS.WebAPI\bin\WebGrease.dll
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Newtonsoft.Json.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Helpers.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Http.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Mvc.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Optimization.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Razor.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.WebPages.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\New folder\MIS\MIS.WebAPI\bin\EntityFramework.xml
+D:\New folder\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\New folder\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\New folder\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.xml
+D:\New folder\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.csprojResolveAssemblyReference.cache
+D:\New folder\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.dll
+D:\New folder\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.pdb
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\ApplicationInsights.config
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\csc.exe
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\vbc.exe
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll.config
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\MIS.WebAPI.pdb
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\EntityFramework.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Owin.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Cors.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Http.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Razor.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Unity.WebApi.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\WebGrease.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Http.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Razor.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\EntityFramework.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.dll
+C:\Users\bashur\Downloads\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.pdb
+D:\Venkat\MIS\MIS.WebAPI\bin\ApplicationInsights.config
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\csc.exe
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\vbc.exe
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\Venkat\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Venkat\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll.config
+D:\Venkat\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\MIS.WebAPI.pdb
+D:\Venkat\MIS\MIS.WebAPI\bin\Antlr3.Runtime.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\EntityFramework.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Newtonsoft.Json.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Owin.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Cors.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Helpers.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Http.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Mvc.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Optimization.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Razor.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.WebPages.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Unity.WebApi.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\WebGrease.dll
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Newtonsoft.Json.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Helpers.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Http.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Mvc.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Optimization.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Razor.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.WebPages.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\Venkat\MIS\MIS.WebAPI\bin\EntityFramework.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Venkat\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.xml
+D:\Venkat\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.csprojResolveAssemblyReference.cache
+D:\Venkat\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.dll
+D:\Venkat\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.pdb
+D:\MIS1\MIS\MIS.WebAPI\bin\ApplicationInsights.config
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\csc.exe
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\vbc.exe
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\MIS1\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\MIS1\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll.config
+D:\MIS1\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\MIS.WebAPI.pdb
+D:\MIS1\MIS\MIS.WebAPI\bin\Antlr3.Runtime.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\EntityFramework.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Newtonsoft.Json.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Owin.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Cors.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Helpers.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Http.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Mvc.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Optimization.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Razor.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.WebPages.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Unity.WebApi.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\WebGrease.dll
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Newtonsoft.Json.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Helpers.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Http.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Mvc.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Optimization.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Razor.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.WebPages.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\MIS1\MIS\MIS.WebAPI\bin\EntityFramework.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MIS1\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.xml
+D:\MIS1\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.csprojResolveAssemblyReference.cache
+D:\MIS1\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.dll
+D:\MIS1\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.pdb
+E:\MIS (2)\MIS\MIS.WebAPI\bin\ApplicationInsights.config
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\csc.exe
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\vbc.exe
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\MIS (2)\MIS\MIS.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\MIS (2)\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll.config
+E:\MIS (2)\MIS\MIS.WebAPI\bin\MIS.WebAPI.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\MIS.WebAPI.pdb
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Antlr3.Runtime.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\EntityFramework.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Newtonsoft.Json.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Owin.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Cors.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Helpers.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Http.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Mvc.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Optimization.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Razor.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.WebPages.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Unity.WebApi.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\WebGrease.dll
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AI.Web.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Http.Cors.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Newtonsoft.Json.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Net.Http.Formatting.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Helpers.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Http.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Http.WebHost.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Mvc.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Optimization.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Razor.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.WebPages.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Antlr3.Runtime.pdb
+E:\MIS (2)\MIS\MIS.WebAPI\bin\EntityFramework.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\EntityFramework.SqlServer.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MIS (2)\MIS\MIS.WebAPI\bin\System.Web.Http.Owin.xml
+E:\MIS (2)\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.csprojResolveAssemblyReference.cache
+E:\MIS (2)\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.dll
+E:\MIS (2)\MIS\MIS.WebAPI\obj\Debug\MIS.WebAPI.pdb
