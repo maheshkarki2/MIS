@@ -3,6 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MIS.WebAPI.Controllers;
 using MIS.WebAPI.Tests.StructureMap;
 using Microsoft.Practices.Unity;
+using MIS.WebAPI.Repository;
 
 namespace MIS.WebAPI.Tests.Controllers
 {

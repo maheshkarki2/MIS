@@ -18,34 +18,34 @@ namespace MIS.WebAPI.Controllers
         // GET: api/Product
         [Dependency]
         public IProductRepository _productRepo { get; set; }
-        [Authorize]
+        
         [Route("api/getAllProduct")]
         public Response GetAll()
         {
-            try
-            {
+            //try
+            //{
                 var result = _productRepo.GetALl();
                 return Response.Ok(result);
-            }
-            catch (Exception ex)
-            {
-                return Response.BadRequest(ex.Message);
-            }
+            //}
+            //catch (Exception ex)
+            //{
+            //    return Response.BadRequest(ex.Message);
+            //}
         }
 
         // GET: api/Product/5
         [Route("api/product/getProductById/{id}")]
         public Response GetProductById(string id)
         {
-            try
-            {
+            //try
+            //{
                 var result = _productRepo.GetProduct(id.ToString());
                 return Response.Ok(result);
-            }
-            catch (Exception ex)
-            {
-                return Response.BadRequest(ex.Message);
-            }
+            //}
+            //catch (Exception ex)
+            //{
+            //    return Response.BadRequest(ex.Message);
+            //}
         }
 
         // POST: api/Product

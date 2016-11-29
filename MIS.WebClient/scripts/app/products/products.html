@@ -1,26 +1,26 @@
 ﻿<hr style="width: 100%; color: black; height: 1px; background-color:black;" />
 <div class="list-group" ng-repeat="product in resProducts">
     <div class="well">
-        <div class="row" ng-click="openProduct(product.ProductCode)">
+        <div class="row" ng-click="openProduct(product.productCode)">
             <div class="col-md-5">
-                <img src="{{product.ImagePath}}" class="img-thumbnail" style="width: 300px; height: 200px" ng-click="openProduct(product.ProductCode)"/>
+                <img src="{{product.imagePath}}" class="img-thumbnail" style="width: 300px; height: 200px" ng-click="openProduct(product.ProductCode)"/>
             </div>
             <div class="co-md-7">
                 <div class="panel panel-default col-md-7">
                     <div class="panel-heading">
                         <h3 class="panel-title">
-                            <strong>{{product.ProductName}}</strong>
+                            <strong>{{product.productName}}</strong>
                         </h3>
                     </div>
 
                     <div class="panel-body">
-                        <strong>Code :</strong>{{product.ProductCode}}<br/>
-                        <strong>Price: </strong>{{product.Price}}<br/>
-                        <strong>Description: </strong>{{product.Description}}<br/>
-                        <div class="btn-link" ng-click="openProduct(product.ProductCode)">Show More</div>
+                        <strong>Code :</strong>{{product.productCode}}<br/>
+                        <strong>Price: </strong>{{product.price}}<br/>
+                        <strong>Description: </strong>{{product.description}}<br/>
+                        <div class="btn-link" ng-click="openProduct(product.productCode)">Show More</div>
                     </div>
                     <div class="panel-footer">
-                        <button class="btn-link" ng-click="openProduct(product.ProductCode)"><strong>MSP : {{product.Price}} $</strong> <em> -(Click here to learn more)</em></button>
+                        <button class="btn-link" ng-click="openProduct(product.productCode)"><strong>MSP : {{product.Price}} $</strong> <em> -(Click here to learn more)</em></button>
                     </div>
                 </div>
             </div>
@@ -30,14 +30,14 @@
     <!--<div class="well">
         <div class="row">
             <div class="card col-md-6">
-                <img class="card-img-top" src="{{product.ImagePath}}" style="width: 300px; height: 200px" alt="" />
+                <img class="card-img-top" src="{{product.imagePath}}" style="width: 300px; height: 200px" alt="" />
                 <div class="card-block">
-                    <h4 class="card-title">{{product.ProductName}}</h4>
-                    <p class="card-text">{{product.Description}}</p>
+                    <h4 class="card-title">{{product.productName}}</h4>
+                    <p class="card-text">{{product.description}}</p>
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item"><strong>Code :</strong>{{product.ProductCode}}</li>
-                    <li class="list-group-item"><strong>Price :</strong>{{product.Price}}</li>
+                    <li class="list-group-item"><strong>Code :</strong>{{product.productCode}}</li>
+                    <li class="list-group-item"><strong>Price :</strong>{{product.price}}</li>
                     <li class="list-group-item">Available: </li>
                 </ul>
                 <div class="card-block">

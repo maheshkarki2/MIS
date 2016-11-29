@@ -319,6 +319,5 @@ E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Webpages.Deployment.xml
 E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Webpages.Razor.xml
 E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Helpers.xml
 E:\MIS (2)\MIS\MIS.WebClient\bin\System.Web.Mvc.xml
-E:\MIS (2)\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.csprojResolveAssemblyReference.cache
 E:\MIS (2)\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.dll
 E:\MIS (2)\MIS\MIS.WebClient\obj\Debug\MIS.WebClient.pdb

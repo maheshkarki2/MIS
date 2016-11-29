@@ -24,8 +24,8 @@
         $scope.resProducts = "";
         var products = salesService.getAllProducts({}).$promise;
         products.then(function(res) {
-            if (res.Success) {
-                $scope.resProducts = res.Body;
+            if (res.success) {
+                $scope.resProducts = res.body;
             }
         });
 
@@ -78,7 +78,7 @@
             var singleProduct = salesService.getProductById({ id: id }).$promise;
             singleProduct.then(
             function (data) {
-                if(data.Success){
+                if(data.success){
                     openDialog(data);
                 }
             }, errorFunction);

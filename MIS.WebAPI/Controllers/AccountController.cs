@@ -39,6 +39,28 @@ public class AccountController : ApiController
         return Ok();
     }
 
+    [AllowAnonymous]
+    [Route("Login")]
+    [HttpPost]
+    public async Task<IHttpActionResult> Login(UserLogin userModel)
+    {
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
+
+        var result = await _repo.FindUser(userModel.UserName,userModel.Password);
+        
+       
+
+        if (result == null)
+        {
+            return NotFound();
+        }
+
+        return Ok();
+    }
+
     protected override void Dispose(bool disposing)
     {
         if (disposing)

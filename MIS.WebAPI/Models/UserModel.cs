@@ -23,4 +23,17 @@ namespace MIS.WebAPI.Models
         [Compare("Password", ErrorMessage ="Passwords do not match")]
         public string ConfirmPassword { get; set; }
     }
+
+    public class UserLogin
+    {
+        [Required]
+        [Display(Name = "User name")]
+        public string UserName { get; set; }
+
+        [Required]
+        [Display(Name = "Password")]
+        [DataType(DataType.Password)]
+        public string Password { get; set; }
+    }
+
 }
